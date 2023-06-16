@@ -19,7 +19,7 @@ Thank you for stopping by and taking the time to learn a bit about me. Stay tune
 
 Juan Pablo Arcila
 
-![image](https://github.com/pabuter12/pabuter12/assets/126111743/395458ae-022b-48c0-9830-f5c6a0a3bcf3 =100x)
+![image](https://github.com/pabuter12/pabuter12/assets/126111743/395458ae-022b-48c0-9830-f5c6a0a3bcf3){width=40px}
 ![image](https://github.com/pabuter12/pabuter12/assets/126111743/815318a1-f037-41eb-a18f-a4f564ec74df)
 
 
