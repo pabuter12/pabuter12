@@ -18,13 +18,3 @@ I believe in the power of collaboration and learning from others. If you share a
 Thank you for stopping by and taking the time to learn a bit about me. Stay tuned for more exciting projects and updates on my GitHub. Happy coding!
 
 Juan Pablo Arcila
-
-![image](https://github.com/pabuter12/pabuter12/assets/126111743/395458ae-022b-48c0-9830-f5c6a0a3bcf3){width=40%}
-
-![image](https://github.com/pabuter12/pabuter12/assets/126111743/815318a1-f037-41eb-a18f-a4f564ec74df)
-
-
-
-
-
-
